@@ -1,0 +1,5 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -1 +1,2 @@
+ <h1>Hello World!!!</h1>
++<img src="pome.jpg" height="300">
+\ No newline at end of file
